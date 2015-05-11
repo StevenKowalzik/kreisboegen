@@ -1,8 +1,7 @@
  
- ARCS - an interactive generator base on georg nees "kreisboegen"
+ ARCS - an interactive generator based on georg nees "kreisboegen"
  --------------------------------------------------------------------------------
- this is a small generator to modify the output of a simple algorithm which should imitate "Kreisboegen" by Georg Nees
- made for our algorithmic arts course.
+ this is a small generator to modify the output of a simple algorithm which should imitate "Kreisboegen" by Georg Nees made for our algorithmic arts course.
  We've build this with processing and used G4P Library for the GUI.
 
  
